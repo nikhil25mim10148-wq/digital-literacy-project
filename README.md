@@ -1,10 +1,16 @@
 # digital-literacy-project
 Student Details
+
 Name:Nikhil Kumar 
+
 Registration Number:25MIM10148
+
 Branch: Int M.tech 
+
 Year: 1st Year
+
 Project Overview
+
 This project is part of the Digital Literacy course. The objective is to understand and apply digital skills such as online communication, professional presence, safe internet practices, and awareness of cybercrime.
 
 Tasks Completed
